@@ -9,6 +9,8 @@
 
 [![Harmanjit's github stats](https://github-readme-stats.vercel.app/api?username=Harmanjit14&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://google.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmanjit14&layout=compact)](https://google.com)
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/harmanjit-singh-36a447198/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://www.instagram.com/harmanjit_14/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
