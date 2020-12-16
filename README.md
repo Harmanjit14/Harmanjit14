@@ -7,8 +7,6 @@
 - 💬 Lets brainstorm together!
 - 📫 How to reach me: Portfolio site under construction, till then - harmanjit140500@gmail.com
 
-[![Harmanjit's github stats](https://github-readme-stats.vercel.app/api?username=Harmanjit14&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://google.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmanjit14&layout=compact)](https://google.com)
 
 ## Connect with me:
