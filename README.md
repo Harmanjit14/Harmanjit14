@@ -1,11 +1,11 @@
 # Hi there, I'm Harmanjit Singh 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harmanjit14" alt="Harmanjit14" /> </p>
 
-- 🔭 I’m currently working on - my Portfolio website
-- 🌱 I’m currently learning - Django 
-- 👯 I’m looking to collaborate on - Flutter
+- 🔭 I’m currently working on - Nothing :( (Suggest me Something)
+- 🌱 I’m currently learning - AWS
+- 👯 I’m looking to collaborate on - Flutter and Django
 - 💬 Lets brainstorm together!
-- 📫 How to reach me: Portfolio site under construction, till then - harmanjit140500@gmail.com
+- 📫 How to reach me: http://harmanjit.rocks/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmanjit14&layout=compact)](https://google.com)
 
