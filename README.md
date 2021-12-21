@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning - AWS
 - 👯 I’m looking to collaborate on - Flutter and Django
 - 💬 Lets brainstorm together!
-- 📫 How to reach me: http://harmanjit.rocks/
+<!-- - 📫 How to reach me: http://harmanjit.rocks/ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmanjit14&layout=compact)](https://google.com)
 
